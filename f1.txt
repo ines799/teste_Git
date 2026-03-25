@@ -1,7 +1,4 @@
 "um exemplo" 
 "um exemplo COM MAIS ESTA LINHA" 
-<<<<<<< HEAD
 "um exemplo NO RAMO testesAdHoc" 
-=======
 "um exemplo que no RAMO MASTER DIVERGE" 
->>>>>>> master
